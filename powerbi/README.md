@@ -12,9 +12,9 @@ A Power BI dashboard was built on top of the SQL Server dataset to visualise shi
 ### Dashboard Preview
 
 **Overview**
-![Dashboard Overview](powerbi/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 **Filtered View (2019)**
-![Dashboard 2019](powerbi/dashboard_2019_filter.png)
+![Dashboard 2019](dashboard_2019_filter.png)
 
 > The dashboard connects directly to a SQL Server database and demonstrates an end-to-end analytics workflow from data ingestion to visual storytelling.
