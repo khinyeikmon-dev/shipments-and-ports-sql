@@ -1,0 +1,201 @@
+shipment_id,origin_port_id,destination_port_id,shipment_year,shipment_weight_tonnes,cargo_type
+1,1,5,2018,300,Electronics
+2,3,7,2019,450,Machinery
+3,4,6,2017,200,Chemicals
+4,2,10,2015,500,Electronics
+5,9,3,2020,150,Agricultural Goods
+6,5,8,2016,300,Consumer Goods
+7,7,2,2012,400,Machinery
+8,6,9,2014,250,Automotive
+9,4,5,2018,375,Textiles
+10,8,1,2013,600,Electronics
+11,10,4,2016,500,Consumer Goods
+12,3,6,2019,150,Machinery
+13,9,2,2017,330,Food Products
+14,7,8,2013,270,Agricultural Goods
+15,5,4,2020,300,Consumer Goods
+16,6,1,2015,450,Machinery
+17,3,10,2011,225,Chemicals
+18,8,7,2016,300,Textiles
+19,2,9,2019,375,Agricultural Goods
+20,10,5,2012,500,Food Products
+21,1,3,2015,600,Electronics
+22,2,4,2018,300,Consumer Goods
+23,4,10,2017,250,Automotive
+24,7,6,2015,275,Textiles
+25,5,1,2013,325,Machinery
+26,6,8,2019,425,Electronics
+27,8,9,2012,375,Chemicals
+28,10,7,2016,450,Consumer Goods
+29,2,3,2018,320,Textiles
+30,9,5,2017,340,Food Products
+31,3,4,2020,400,Agricultural Goods
+32,6,7,2015,260,Electronics
+33,7,9,2011,480,Machinery
+34,4,2,2013,220,Consumer Goods
+35,1,5,2016,500,Textiles
+36,2,8,2017,450,Automotive
+37,5,9,2014,330,Food Products
+38,3,1,2013,400,Machinery
+39,7,10,2019,275,Consumer Goods
+40,10,8,2015,520,Textiles
+41,4,6,2018,290,Chemicals
+42,5,3,2020,380,Agricultural Goods
+43,1,10,2017,500,Electronics
+44,6,2,2014,260,Textiles
+45,9,4,2012,450,Agricultural Goods
+46,8,3,2013,200,Food Products
+47,3,7,2019,500,Consumer Goods
+48,7,6,2018,270,Textiles
+49,2,4,2020,360,Automotive
+50,10,1,2013,600,Electronics
+51,5,9,2014,330,Food Products
+52,1,6,2016,450,Machinery
+53,3,9,2017,350,Consumer Goods
+54,9,2,2018,250,Textiles
+55,6,4,2019,500,Automotive
+56,7,8,2012,420,Agricultural Goods
+57,4,3,2013,275,Electronics
+58,2,5,2017,390,Textiles
+59,10,4,2020,600,Consumer Goods
+60,8,6,2015,470,Machinery
+61,6,1,2011,430,Chemicals
+62,3,8,2014,300,Agricultural Goods
+63,7,5,2017,260,Food Products
+64,1,9,2012,500,Textiles
+65,2,6,2019,340,Machinery
+66,4,8,2014,480,Electronics
+67,8,3,2016,275,Consumer Goods
+68,5,10,2018,390,Textiles
+69,7,4,2019,310,Automotive
+70,3,2,2016,470,Food Products
+71,9,1,2015,290,Electronics
+72,6,7,2012,330,Consumer Goods
+73,1,3,2020,410,Textiles
+74,2,9,2019,350,Agricultural Goods
+75,5,8,2017,280,Machinery
+76,4,1,2016,510,Electronics
+77,3,6,2013,275,Chemicals
+78,7,5,2014,380,Textiles
+79,10,2,2018,420,Consumer Goods
+80,9,8,2015,500,Automotive
+81,5,4,2012,310,Food Products
+82,2,6,2013,470,Agricultural Goods
+83,7,3,2018,250,Textiles
+84,8,1,2015,600,Electronics
+85,4,10,2019,370,Machinery
+86,6,2,2016,420,Consumer Goods
+87,1,8,2020,510,Textiles
+88,3,9,2017,500,Food Products
+89,5,2,2014,450,Consumer Goods
+90,10,6,2015,390,Agricultural Goods
+91,8,4,2013,320,Textiles
+92,2,1,2018,500,Electronics
+93,3,7,2019,350,Automotive
+94,9,5,2017,420,Food Products
+95,4,3,2015,300,Machinery
+96,6,10,2019,600,Consumer Goods
+97,8,2,2016,450,Electronics
+98,1,7,2018,340,Chemicals
+99,5,9,2020,410,Textiles
+100,10,3,2015,330,Machinery
+101,2,6,2019,360,Agricultural Goods
+102,9,1,2012,470,Consumer Goods
+103,8,4,2016,260,Machinery
+104,3,10,2017,300,Textiles
+105,5,8,2020,350,Automotive
+106,7,6,2018,500,Electronics
+107,1,2,2013,275,Food Products
+108,4,9,2014,490,Consumer Goods
+109,10,7,2016,300,Textiles
+110,2,5,2015,390,Chemicals
+111,3,8,2012,260,Machinery
+112,6,4,2018,500,Electronics
+113,9,3,2015,480,Agricultural Goods
+114,8,10,2017,450,Consumer Goods
+115,4,7,2019,250,Machinery
+116,5,2,2020,400,Textiles
+117,3,6,2015,350,Automotive
+118,1,8,2016,300,Electronics
+119,6,9,2014,330,Food Products
+120,10,5,2018,500,Textiles
+121,7,3,2019,270,Agricultural Goods
+122,9,8,2020,480,Machinery
+123,8,1,2015,330,Consumer Goods
+124,4,2,2016,510,Textiles
+125,3,7,2017,260,Food Products
+126,2,4,2018,420,Machinery
+127,5,6,2019,500,Electronics
+128,10,9,2015,330,Agricultural Goods
+129,6,8,2013,400,Consumer Goods
+130,3,1,2016,290,Textiles
+131,9,5,2017,360,Chemicals
+132,4,3,2014,500,Electronics
+133,7,2,2019,320,Automotive
+134,10,8,2020,420,Textiles
+135,1,6,2015,500,Consumer Goods
+136,2,5,2012,300,Food Products
+137,8,9,2017,470,Machinery
+138,4,1,2016,400,Agricultural Goods
+139,3,10,2019,250,Textiles
+140,6,7,2015,500,Electronics
+141,7,9,2018,420,Chemicals
+142,5,8,2017,350,Consumer Goods
+143,10,3,2012,400,Machinery
+144,2,4,2015,270,Textiles
+145,8,6,2019,500,Food Products
+146,9,5,2018,450,Consumer Goods
+147,1,3,2016,280,Textiles
+148,7,10,2019,410,Machinery
+149,6,4,2018,320,Electronics
+150,5,2,2020,600,Automotive
+151,3,8,2017,430,Textiles
+152,10,1,2014,260,Food Products
+153,4,9,2016,500,Electronics
+154,2,7,2018,330,Machinery
+155,5,6,2019,300,Consumer Goods
+156,1,2,2017,480,Textiles
+157,9,10,2013,500,Agricultural Goods
+158,6,3,2016,350,Electronics
+159,4,5,2020,320,Machinery
+160,8,7,2018,400,Chemicals
+161,3,6,2012,390,Consumer Goods
+162,7,1,2015,280,Textiles
+163,2,10,2018,500,Food Products
+164,10,4,2019,450,Machinery
+165,9,2,2017,380,Textiles
+166,8,5,2016,490,Agricultural Goods
+167,4,3,2018,510,Consumer Goods
+168,7,9,2019,360,Machinery
+169,5,1,2020,500,Textiles
+170,6,10,2015,470,Food Products
+171,8,2,2016,400,Chemicals
+172,1,7,2018,510,Electronics
+173,9,5,2020,320,Textiles
+174,3,4,2017,260,Machinery
+175,2,8,2015,420,Food Products
+176,7,3,2014,360,Consumer Goods
+177,4,9,2012,400,Textiles
+178,1,6,2016,490,Electronics
+179,10,7,2019,500,Agricultural Goods
+180,3,2,2017,300,Consumer Goods
+181,8,5,2018,400,Machinery
+182,6,9,2014,500,Food Products
+183,2,4,2016,380,Textiles
+184,9,1,2018,450,Electronics
+185,7,8,2013,320,Agricultural Goods
+186,10,5,2017,270,Consumer Goods
+187,4,3,2020,500,Textiles
+188,1,2,2015,350,Automotive
+189,8,7,2014,400,Machinery
+190,6,10,2019,460,Chemicals
+191,5,9,2013,320,Electronics
+192,9,8,2017,500,Consumer Goods
+193,2,6,2015,420,Textiles
+194,3,4,2020,470,Agricultural Goods
+195,1,5,2019,380,Machinery
+196,6,3,2012,450,Textiles
+197,7,9,2014,330,Electronics
+198,5,10,2016,290,Chemicals
+199,4,2,2019,500,Agricultural Goods
+200,8,1,2013,480,Consumer Goods
